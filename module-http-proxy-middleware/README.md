@@ -4,6 +4,6 @@
 
 * install :
 
-        npm install --save-dev http-proxy-middleware
+        npm install --save-dev http-proxy-middleware / npm install
 
 *
