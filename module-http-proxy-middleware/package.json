@@ -1,0 +1,25 @@
+{
+  "name": "module-http-proxy-middleware",
+  "version": "1.0.0",
+  "description": "a simple demo for http-proxy-middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liumapp/nodejs-blog-code.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "liumapp",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/liumapp/nodejs-blog-code/issues"
+  },
+  "homepage": "https://github.com/liumapp/nodejs-blog-code#readme",
+  "devDependencies": {
+    "http-proxy-middleware": "^0.18.0"
+  }
+}
